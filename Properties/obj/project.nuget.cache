@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/29TEgG2PWJ0DHm6MkAVzoGxnrM3eg7J6Zo1oOgtWa0FE9qGxKIEvMMEmAiICgaoPqLJpRXOF6Y0PMX1SpzxQ==",
+  "success": true,
+  "projectFilePath": "D:\\.Net\\Griswold-Midterm\\RaceTrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauren\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lauren\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.exe
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.dll.config
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.deps.json
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.runtimeconfig.json
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.dll
+D:\.Net\Griswold-Midterm\bin\Debug\net6.0\RaceTrack.pdb
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.csproj.AssemblyReference.cache
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.csproj.CoreCompileInputs.cache
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.dll
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\refint\RaceTrack.dll
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.pdb
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\RaceTrack.genruntimeconfig.cache
+D:\.Net\Griswold-Midterm\obj\Debug\net6.0\ref\RaceTrack.dll
